@@ -8,7 +8,7 @@ Without tab
 ### 3
     2 Tabs
 
-[Testing link to another page](./another-page.html)
+[Testing link to another page](./anotherpage.html)
 
 **If** _then_ ~~but~~
 
