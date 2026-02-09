@@ -12,7 +12,7 @@ Without tab
 
 **If** _then_ ~~but~~
 
-'''python
+```python
 a = 3
 b = 2
 if (a + b) == 3:
@@ -20,4 +20,4 @@ if (a + b) == 3:
 else:
   # Should not be possible
   pass
-'''
+```
