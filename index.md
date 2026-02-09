@@ -21,3 +21,6 @@ else:
   # Should not be possible
   pass
 ```
+```
+hello world
+```
